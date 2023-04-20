@@ -12,6 +12,7 @@ To track how many people have joined the Purdue Hackers Discord Community since 
 ### Process
 - Added carl-bot to track join-leave logs a week after the server was created
 - Exported channel to a .txt file using [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)
+  - Unsure if I should upload the .txt file :x will probably upload later
 - Create and run the Jupyter Notebook 🏃‍♂️
 - Share fun graphs :y
 
